@@ -19,6 +19,10 @@ Remy Fire is a modern, responsive website template suitable for portfolios, busi
 - `lib/`: Additional libraries
 - `popup/`: Quick view popups for shop items
 
+## 📸 Screenshots
+![remyFire](https://github.com/user-attachments/assets/40ea3df4-85e9-43d2-b6dc-dea160a1dfe8)
+
+
 ## Getting Started
 1. **Clone or download the repository.**
 2. **Open `index.html` in your browser** to view the homepage.
